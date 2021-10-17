@@ -35,15 +35,23 @@ It didn´t affect other schools at all.
 **Before** 
 ![spendingbefore](https://github.com/ManuelRuizF/School_District_Analysis/blob/main/resources/spendingbefore.PNG)
 **After**  
-![spendingafter](https://github.com/ManuelRuizF/School_District_Analysis/blob/main/resources/spendingafter.PNG)
+![spendingafter](https://github.com/ManuelRuizF/School_District_Analysis/blob/main/resources/spendingafter.PNG)  
+
+There were barely changes.  
+
 ### Scores by school size  
 **Before**  
 ![sizebefore](https://github.com/ManuelRuizF/School_District_Analysis/blob/main/resources/schoolsizebefore.PNG)
 **After**  
-![sizeafter](https://github.com/ManuelRuizF/School_District_Analysis/blob/main/resources/schoolsizeafter.PNG)
+![sizeafter](https://github.com/ManuelRuizF/School_District_Analysis/blob/main/resources/schoolsizeafter.PNG)  
+There were no changes at all.   
+
 ### Scores by school type  
 **Before**  
 ![typebefore](https://github.com/ManuelRuizF/School_District_Analysis/blob/main/resources/schooltypebefore.PNG)
 **After**  
-![typeafter](https://github.com/ManuelRuizF/School_District_Analysis/blob/main/resources/schooltypeafter.PNG)
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+![typeafter](https://github.com/ManuelRuizF/School_District_Analysis/blob/main/resources/schooltypeafter.PNG)  
+
+There were no changes at all.
+## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.  
+The general conclusion for this work and in general wih any work with this type of modification is that when you work with big data and you change a little most of times it wont represent a change in the results. For this case we move certain grades from a certain school grade from a certain school in our big data. So, to wrap it up these little changes didn´t affect our analysis at all. If we go through just the THS data we will find out that there was changes in fact, but those changes we are little. Creating NaN values for some student´s grades just increased a little their passing percentage. This change was so little so there´s a few reasons to belive there was dishonesty at this school. 
